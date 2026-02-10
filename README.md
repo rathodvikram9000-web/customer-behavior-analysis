@@ -1,8 +1,10 @@
 # Customer Behavior Analysis
 
 ## 📌 Project Overview
-This project analyzes **customer shopping behavior** using an end-to-end data analytics pipeline.  
-The objective is to understand how **customer demographics, discounts, subscriptions, purchase frequency, shipping type, and seasonality** influence purchasing behavior and revenue.
+This project focuses on analyzing customer shopping behavior from a **business and decision-making perspective**.
+
+Using **Python for data exploration**, **MySQL for analytical querying**, and **Power BI for visualization**, the project answers key business questions related to customer spending, discounts, subscriptions, purchase frequency, and seasonality.
+
 
 The project follows a real-world analytics workflow:
 **Python → MySQL → Power BI**
