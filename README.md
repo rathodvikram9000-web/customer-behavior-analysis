@@ -63,7 +63,7 @@ Created an interactive **Customer Behavior Dashboard** featuring:
 - Age group and item-level analysis
 - Interactive slicers for gender, subscription, and shipping type
 
-[![Power BI Dashboard](images/powerbi_dashboard.png)](https://github.com/rathodvikram9000-web/customer-behavior-analysis/commit/6c1be9d22e1b66fd4e0e750388ed59a0c2ec1683)
+[[![Power BI Dashboard](images/powerbi_dashboard.png)](https://github.com/rathodvikram9000-web/customer-behavior-analysis/commit/6c1be9d22e1b66fd4e0e750388ed59a0c2ec1683)](https://github.com/rathodvikram9000-web/customer-behavior-analysis/blob/main/powerbi_dashboard.png)
 
 
 ---
